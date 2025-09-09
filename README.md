@@ -72,7 +72,7 @@ The server will be running on `http://localhost:5000`.
 ______________________________________________
 
 ## Folder Structure
-
+```
 Lead-Management-App/
 ├── config/ # Database configuration
 ├── controller/ # Controller functions for routes
