@@ -72,6 +72,7 @@ The server will be running on `http://localhost:5000`.
 ______________________________________________
 
 ## Folder Structure
+
 ```
 Lead-Management-App/
 ├── config/ # Database configuration
@@ -81,6 +82,7 @@ Lead-Management-App/
 ├── server.js # Entry point of the app
 ├── .env # Environment variables (not included in repo)
 └── package.json # Project metadata and dependencies
+```
 
 __________________________________________________________
 
