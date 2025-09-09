@@ -46,7 +46,7 @@ _______________________________________________________________________________
 ### Installation
 
 1. Clone the repository:
-git clone https://github.com/shivam0642/lead-management-app.git
+git clone https://github.com/shivam0642/Lead-Management-App.git
 
 2. Navigate to the project directory:
 cd lead-management-app
@@ -72,7 +72,6 @@ The server will be running on `http://localhost:5000`.
 ______________________________________________
 
 ## Folder Structure
-
 ├── config/ # Database configuration
 ├── controller/ # Controller functions for routes
 ├── models/ # Mongoose schema definitions
